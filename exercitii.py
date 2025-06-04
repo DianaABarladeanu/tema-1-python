@@ -130,3 +130,7 @@ operatii = {
 
 rezultat = operatii['*'](x, y)
 print("Rezultatul înmulțirii:", rezultat)
+
+# Am rezolvat exercitiile din tema 1
+
+# Am rezolvat exercitiile din tema 1
